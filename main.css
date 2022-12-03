@@ -76,7 +76,7 @@ button:hover{
    display: block;
    border: none;
    height: 135px;
-   font-size: 40px;
+   font-size: 70px;
    font-weight: 700;
    color: #fff;
    background: #ff9900;
@@ -109,7 +109,7 @@ button:hover{
 .action-buttons button{
    height: 18.1%;
    width: 75px;
-   font-size: 50px;
+   font-size: 70px;
    background: #ff9900;
    color: #fff;
    border: none;
